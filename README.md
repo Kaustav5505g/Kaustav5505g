@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Kaustav5505g/Kaustav5505g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# KAUSTAV PAUL
+### B.Tech CSE | AI/ML & DSA
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│  Kaustav5505g@github                                                   │
+│  ───────────────────────────────────────────────────────────────────   │
+│  Degree  : B.Tech in Computer Science & Engineering                    │
+│  Focus   : Artificial Intelligence & Machine Learning                  │
+│  Core    : Data Structures & Algorithms in C / C++                    │
+│  Status  : Code. Learn. Build. Repeat.                                 │
+│                                                                        │
+│  Languages : Python, C, C++, SQL                                       │
+│  ML Stack  : Scikit-Learn, Pandas, NumPy                               │
+│  Tools     : Git, GitHub, Jupyter                                      │
+└────────────────────────────────────────────────────────────────────────┘
