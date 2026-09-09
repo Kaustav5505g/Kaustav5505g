@@ -41,16 +41,6 @@
 
 ---
 
-### 🛡️ Featured Repositories
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[durgaotsav.ai](https://github.com/Kaustav5505g/durgaotsav.ai)** | AI-powered crowd safety & density management platform | `Python` `ML` `HTML` |
-| **[glowmatch](https://github.com/Kaustav5505g/glowmatch)** | Interactive JavaScript web application | `JavaScript` `CSS` |
-| **[JobPilot-AI](https://github.com/Kaustav5505g/JobPilot-AI)** | AI-assisted job matching & automation suite | `JavaScript` `Node.js` |
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
