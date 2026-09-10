@@ -1,28 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=KAUSTAV%20PAUL&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=KAUSTAV%20PAUL&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 #### AI/ML Engineer
 
 <br>
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="10" style="max-width: 720px; background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px;">
   <tr>
-    <td align="left" style="padding: 20px; background-color: #0d1117; border-radius: 12px; border: 1px solid #30363d;">
-      <pre style="color: #58a6ff; font-family: monospace; font-size: 14px; margin: 0; background: transparent;">
-┌────────────────────────────────────────────────────────┐
-│  <span style="color: #7ee787;">kaustav@github-profile</span>                                │
-│  ────────────────────────────────────────────────────  │
-│  <span style="color: #ff7b72;">🎓 Degree</span>  : B.Tech in Computer Science & Engineering   │
-│  <span style="color: #79c0ff;">🎯 Focus</span>   : Artificial Intelligence & Machine Learning │
-│  <span style="color: #d2a8ff;">🧠 Core</span>    : Data Structures & Algorithms (C / C++)     │
-│  <span style="color: #ffa657;">⚡ Status</span>  : Code. Learn. Build. Repeat.                │
-│                                                        │
-│  <span style="color: #e3b341;">💻 Stack</span>   : Python, C, C++, SQL                      │
-│  <span style="color: #7ee787;">🤖 ML/Data</span> : Scikit-Learn, Pandas, NumPy                │
-│  <span style="color: #ff7b72;">🛠️ Tools</span>   : Git, GitHub, Jupyter                   │
-└────────────────────────────────────────────────────────┘</pre>
-    </td>
+    <td align="left"><strong style="color: #7ee787;">kaustav@github-profile</strong></td>
+  </tr>
+  <tr>
+    <td align="left"><strong style="color: #ff7b72;">🎓 Degree</strong> : B.Tech in Computer Science &amp; Engineering</td>
+  </tr>
+  <tr>
+    <td align="left"><strong style="color: #79c0ff;">🎯 Focus</strong> : Artificial Intelligence &amp; Machine Learning</td>
+  </tr>
+  <tr>
+    <td align="left"><strong style="color: #d2a8ff;">🧠 Core</strong> : Data Structures &amp; Algorithms (C / C++)</td>
+  </tr>
+  <tr>
+    <td align="left"><strong style="color: #ffa657;">⚡ Status</strong> : Code. Learn. Build. Repeat.</td>
+  </tr>
+  <tr>
+    <td align="left"><strong style="color: #e3b341;">💻 Stack</strong> : Python, C, C++, SQL</td>
+  </tr>
+  <tr>
+    <td align="left"><strong style="color: #7ee787;">🤖 ML/Data</strong> : Scikit-Learn, Pandas, NumPy</td>
+  </tr>
+  <tr>
+    <td align="left"><strong style="color: #ff7b72;">🛠️ Tools</strong> : Git, GitHub, Jupyter</td>
+  </tr>
   </tr>
 </table>
 
