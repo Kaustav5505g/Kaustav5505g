@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=KAUSTAV%20PAUL&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-### 🚀 B.Tech CSE | AI/ML Engineer & DSA Builder
+#### AI/ML Engineer
 
 <br>
 
