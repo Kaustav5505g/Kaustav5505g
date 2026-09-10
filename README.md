@@ -6,31 +6,37 @@
 
 <br>
 
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="10" style="max-width: 720px; background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px;">
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="10" style="max-width: 720px; background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; font-family: monospace;">
   <tr>
-    <td align="left"><strong style="color: #7ee787;">kaustav@github-profile</strong></td>
+    <td align="left" colspan="2"><strong style="color: #7ee787;">kaustav@github-profile</strong><span style="color: #8b949e;">:~$ whoami</span></td>
   </tr>
   <tr>
-    <td align="left"><strong style="color: #ff7b72;">🎓 Degree</strong> : B.Tech in Computer Science &amp; Engineering</td>
+    <td align="left" width="30%"><strong style="color: #ff7b72;">🎓 Degree</strong></td>
+    <td align="left">B.Tech in Computer Science &amp; Engineering</td>
   </tr>
   <tr>
-    <td align="left"><strong style="color: #79c0ff;">🎯 Focus</strong> : Artificial Intelligence &amp; Machine Learning</td>
+    <td align="left"><strong style="color: #79c0ff;">🎯 Focus</strong></td>
+    <td align="left">Artificial Intelligence &amp; Machine Learning</td>
   </tr>
   <tr>
-    <td align="left"><strong style="color: #d2a8ff;">🧠 Core</strong> : Data Structures &amp; Algorithms (C / C++)</td>
+    <td align="left"><strong style="color: #d2a8ff;">🧠 Core</strong></td>
+    <td align="left">Data Structures &amp; Algorithms (C / C++)</td>
   </tr>
   <tr>
-    <td align="left"><strong style="color: #ffa657;">⚡ Status</strong> : Code. Learn. Build. Repeat.</td>
+    <td align="left"><strong style="color: #ffa657;">⚡ Status</strong></td>
+    <td align="left">Code. Learn. Build. Repeat.</td>
   </tr>
   <tr>
-    <td align="left"><strong style="color: #e3b341;">💻 Stack</strong> : Python, C, C++, SQL</td>
+    <td align="left"><strong style="color: #e3b341;">💻 Stack</strong></td>
+    <td align="left">Python, C, C++, SQL</td>
   </tr>
   <tr>
-    <td align="left"><strong style="color: #7ee787;">🤖 ML/Data</strong> : Scikit-Learn, Pandas, NumPy</td>
+    <td align="left"><strong style="color: #7ee787;">🤖 ML/Data</strong></td>
+    <td align="left">Scikit-Learn, Pandas, NumPy</td>
   </tr>
   <tr>
-    <td align="left"><strong style="color: #ff7b72;">🛠️ Tools</strong> : Git, GitHub, Jupyter</td>
-  </tr>
+    <td align="left"><strong style="color: #ff7b72;">🛠️ Tools</strong></td>
+    <td align="left">Git, GitHub, Jupyter</td>
   </tr>
 </table>
 
