@@ -8,7 +8,7 @@
 
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="10" style="max-width: 720px; background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; font-family: monospace;">
   <tr>
-    <td align="left" colspan="2"><strong style="color: #7ee787;">kaustav@github-profile</strong><span style="color: #8b949e;">:~$ whoami</span></td>
+    <td align="left" colspan="2"><strong style="color: #7ee787;">kaustav@github-profile<span style="color: #8b949e;">:~$ whoami</span></td>
   </tr>
   <tr>
     <td align="left" width="30%"><strong style="color: #ff7b72;">🎓 Degree</strong></td>
