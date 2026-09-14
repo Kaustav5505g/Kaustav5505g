@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td align="left"><strong style="color: #e3b341;">💻 Stack</strong></td>
-    <td align="left">Python, C, C++, SQL</td>
+    <td align="left">Python, C, C++,Java, SQL</td>
   </tr>
   <tr>
     <td align="left"><strong style="color: #7ee787;">🤖 ML/Data</strong></td>
