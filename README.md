@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td align="left"><strong style="color: #7ee787;">🤖 ML/Data</strong></td>
-    <td align="left">Scikit-Learn, Pandas, NumPy</td>
+    <td align="left">Scikit-Learn, Pandas, NumPy, Matplotlib</td>
   </tr>
   <tr>
     <td align="left"><strong style="color: #ff7b72;">🛠️ Tools</strong></td>
