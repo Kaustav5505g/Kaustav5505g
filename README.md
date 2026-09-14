@@ -19,10 +19,6 @@
     <td align="left">Artificial Intelligence &amp; Machine Learning</td>
   </tr>
   <tr>
-    <td align="left"><strong style="color: #d2a8ff;">🧠 Core</strong></td>
-    <td align="left">Data Structures &amp; Algorithms (C / C++)</td>
-  </tr>
-  <tr>
     <td align="left"><strong style="color: #ffa657;">⚡ Status</strong></td>
     <td align="left">Code. Learn. Build. Repeat.</td>
   </tr>
