@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=KAUSTAV%20PAUL&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-#### AI/ML Enthusiast
+#### AI/ML Enthusriast
 
 <br>
 
