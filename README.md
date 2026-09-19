@@ -9,7 +9,7 @@
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="10" style="max-width: 720px; background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; font-family: monospace;">
  
   <tr>
-    <td align="left" width="30%"><strong style="color: #ff7b72;">🎓 Degree</strong></td>
+    <td align="left" width="30%"><strong style="color: #ff7b72;">🎓 Degee</strong></td>
     <td align="left">B.Tech in Computer Science &amp; Engineering</td>
   </tr>
   <tr>
