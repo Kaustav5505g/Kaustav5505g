@@ -14,7 +14,7 @@ kaustav@github - $ neofetch
 Role         : Machine Learning Engineer & Software Developer
 Current      : Real Estate Valuation & Regression Systems
 Core Tech    : Python, SQL, C++, Scikit-Learn, Pandas
-Infrastructure: Git, GitHub, Linux, VS Code
+Infrastructure: Git, GitHub, VS Code
 
 - STACK
   Languages  : Python, C, C++, Java, SQL
