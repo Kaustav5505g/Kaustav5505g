@@ -11,17 +11,15 @@
 ```bash
 kaustav@github - $ neofetch
 ---------------------------
-Role         : Machine Learning Engineer & Software Developer
+Role         : Machine Learning Engineer & Developer
 Current      : Real Estate Valuation & Regression Systems
 Core Tech    : Python, SQL, C++, Scikit-Learn, Pandas
-Infrastructure: Git, GitHub, VS Code
 
 - STACK
   Languages  : Python, C, C++, Java, SQL
   ML & Data  : Scikit-Learn, Pandas, NumPy, Matplotlib
-  Backend    : REST APIs, Data Pipelines, Automated ETL
   Tools      : Git, GitHub, Jupyter, VS Code
 
 - HIGHLIGHTS
   * Engineered an end-to-end Multiple Linear Regression pipeline achieving R² = 0.47 on 160K+ real estate records.
-  * Resolved complex data-cleaning anomalies (text-to-float parsing, multi-column aggregation, and dynamic outlier filtering).
+  * Resolved complex data-cleaning anomalies (text-to-float parsing, multi-column aggregation, outlier filtering).
