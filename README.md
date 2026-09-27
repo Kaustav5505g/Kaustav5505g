@@ -1,23 +1,22 @@
 <div align="center">
 
-# KAUSTAV PAUL
-### **Machine Learning Learner & NLP Enthusiast**
+# ⚡ KAUSTAV PAUL ⚡
+### **Machine Learning & Systems Developer**
 
-[![Status](https://img.shields.io/badge/Status-Actively%20Learning-blue?style=flat-square)]()
-[![Focus](https://img.shields.io/badge/Focus-Machine%20Learning%20%7C%20NLP-orange?style=flat-square)]()
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Actively_Building-brightgreen?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Machine_Learning_%7C_Data_Pipelines-blueviolet?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_Source-Ready_To_Collaborate-blue?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 </div>
 
 ---
 
 ```text
-kaustav@github - $ neofetch
+kaustav@github - $ neofetch --profile
 --------------------------------------------------
-Role        : Student Developer & ML Learner
-Core Tech   : Python, Scikit-Learn, Pandas, Flask
-Interest    : Natural Language Processing (NLP) & Data Pipelines
+💻 Role       : Machine Learning & Software Learner
+🚀 Core Tech  : Python, Scikit-Learn, Pandas, Flask, Joblib, Java
+🎯 Focus      : Predictive Models & Anomaly Detection Systems
 --------------------------------------------------
-- STACK
-  Languages : Python, C, C++, Java, SQL
-  ML & Data : Scikit-Learn, Pandas, NumPy, Matplotlib
-  Tools     : Git, GitHub, VS Code, Jupyter
