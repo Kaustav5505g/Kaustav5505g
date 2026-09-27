@@ -1,25 +1,28 @@
-<h1 align="center">KAUSTAV PAUL</h1>
-<p align="center"><strong>Machine Learning Engineer & Data Systems Developer</strong></p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active_Developer-blue?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/badge/Focus-Machine_Learning_%7C_Data_Pipelines-orange?style=flat-square" alt="Focus">
-</p>
+# KAUSTAV PAUL
+### **Machine Learning Engineer & Backend Systems Developer**
+
+[![Status](https://img.shields.io/badge/Status-Active%20Developer-success?style=flat-square)]()
+[![Focus](https://img.shields.io/badge/Focus-MLOps%20%7C%20Data%20Pipelines%20%7C%20Web%20Backends-orange?style=flat-square)]()
+
+</div>
 
 ---
 
-```bash
+```text
 kaustav@github - $ neofetch
----------------------------
-Role         : Machine Learning Engineer & Developer
-Current      : Real Estate Valuation & Regression Systems
-Core Tech    : Python, SQL, C++, Scikit-Learn, Pandas
-
+--------------------------------------------------
+Role        : Machine Learning Engineer & Backend Developer
+Core Tech   : Python, Flask, Scikit-Learn, Pandas, Git/GitHub
+Focus       : Applied ML, Anomaly Detection, & Data Systems
+--------------------------------------------------
 - STACK
-  Languages  : Python, C, C++, Java, SQL
-  ML & Data  : Scikit-Learn, Pandas, NumPy, Matplotlib
-  Tools      : Git, GitHub, Jupyter, VS Code
+  Languages : Python, C, C++, Java, SQL
+  ML & Data : Scikit-Learn, Pandas, NumPy, Joblib, Matplotlib
+  Backend   : Flask, REST APIs, Microservices
+  Tools     : Git, GitHub, Linux, VS Code, Virtual Environments
 
 - HIGHLIGHTS
-  * Engineered an end-to-end Multiple Linear Regression pipeline achieving R² = 0.47 on 160K+ real estate records.
-  * Resolved complex data-cleaning anomalies (text-to-float parsing, multi-column aggregation, outlier filtering).
+  * Built **LogSentinel**: An end-to-end MLOps security monitoring microservice combining an unsupervised Isolation Forest model with a Flask REST API and live dashboard.
+  * Engineered a Multiple Linear Regression pipeline achieving R² = 0.47 on 160K+ real estate records, managing end-to-end data cleaning and outlier filtering.
