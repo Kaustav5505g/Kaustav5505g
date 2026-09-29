@@ -3,9 +3,8 @@
 # KAUSTAV PAUL
 ### 🚀 Machine Learning & Software Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/kaustav-paul-5505g)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:paulkaustav0@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/Kaustav5505g)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaustav-paul-5505g)
+[![Email](https://img.shields.io/badge/Email-Contact-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulkaustav0@gmail.com)
 
 </div>
 
