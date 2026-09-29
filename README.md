@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ KAUSTAV PAUL ⚡
+#  KAUSTAV PAUL 
 ### **Machine Learning & Software Developer**
 
 <p align="center">
