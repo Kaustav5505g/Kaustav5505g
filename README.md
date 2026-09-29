@@ -1,34 +1,20 @@
 <div align="center">
 
 # KAUSTAV PAUL
+### **Machine Learning & Software Developer**
 
-**Machine Learning & Software Developer**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaustav-paul-5505g)
+[![Email](https://img.shields.io/badge/Email-Contact-%23EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:paulkaustav0@gmail.com)
 
 </div>
 
-<br>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
+---
 
 ```bash
-# Kaustav Paul - Workspace
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-python src/model.py
-python app.py
-</td>
-<td width="50%" valign="top">
-Bash
 kaustav@github: ~$ neofetch
-------------------------------------
- 🚀 Role     : ML & Software Developer
- 🎯 Focus    : Applied ML & Data Pipelines
- 🐍 Languages: Python, Java
- 🛠️ Tech     : Scikit-Learn, Pandas, Flask
- 📦 Tools    : Git, Linux, Jupyter
- 🏆 Marquee  : LogSentinel (Anomalies)
-------------------------------------
-</td>
+--------------------------------------------------
+ 💻 Role       : Machine Learning & Software Developer
+ 🚀 Core Tech  : Python, Scikit-Learn, Pandas, Flask, Java
+ 🎯 Focus      : Applied Machine Learning & Data Pipelines
+ 🏆 Marquee    : LogSentinel - Real-time anomaly detection app
+--------------------------------------------------
