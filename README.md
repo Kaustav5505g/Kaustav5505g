@@ -4,9 +4,9 @@
 ### **Machine Learning & Software Developer**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVELY_BUILDING-brightgreen?style=for-the-badge&logo=git&logoColor=white" />
+  <a href="https://linkedin.com/in/kaustav-paul-5505g"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/FOCUS-MACHINE_LEARNING_%7C_PYTHON-orange?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/GITHUB-PROFILE-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-PROFILE-black?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 </div>
