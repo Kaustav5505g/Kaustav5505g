@@ -19,5 +19,5 @@ kaustav@github - $ neofetch --profile
  💻 Role       : Machine Learning Learner & Developer
  🚀 Core Tech  : Python, Scikit-Learn, Pandas, Flask, Joblib, Java
  🎯 Focus      : Applied Machine Learning & Data Pipelines
- 🏆 Achievement: Built LogSentinel - A real-time anomaly detection app using Isolation Forest & Flask.
+ 🏆 Achievement: Built LogSentinel - A real-time anomaly detection app using Isolation Forest & Fla
 --------------------------------------------------
