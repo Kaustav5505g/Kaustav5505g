@@ -1,51 +1,37 @@
-<!-- Kaustav Paul | GitHub Profile README -->
-<!-- Verify the Fraudora and LogSentinel repo URLs below match your actual repository names. -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:00E5FF&height=150&section=header&text=Kaustav%20Paul&fontSize=46&fontColor=0D1117&fontAlignY=38&desc=Software%20%26%20Applied%20Machine%20Learning%20Developer&descSize=16&descAlignY=60" alt="Kaustav Paul banner" width="100%" />
+<img src="assets/banner.svg" alt="Kaustav Paul - Software and Applied Machine Learning Developer" width="100%" />
 
 <a href="https://github.com/Kaustav5505g">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=00FF9C&center=true&vCenter=true&width=640&lines=%24+whoami+%E2%86%92+Kaustav+Paul;%24+status+--check+%E2%86%92+ONLINE;%24+focus+%E2%86%92+Anomaly+Detection+%26+Data+Pipelines;Code.+Learn.+Build.+Repeat." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=00FF9C&center=true&vCenter=true&width=820&lines=%24+status+--check+%E2%86%92+ONLINE;%24+focus+%E2%86%92+Anomaly+Detection+%26+Data+Pipelines;%24+building+%E2%86%92+Fraudora+%7C+LogSentinel;%24+contributing+%E2%86%92+Biopython" alt="Typing animation" />
 </a>
 
 <br/>
 
 <a href="https://linkedin.com/in/kaustav-paul-5505g"><img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="LinkedIn" /></a>
 <a href="mailto:paulkaustav0@gmail.com"><img src="https://img.shields.io/badge/Email-00FF9C?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=Kaustav5505g&label=PROFILE%20VIEWS&color=00E5FF&style=for-the-badge&labelColor=0D1117" alt="Profile views" />
+<a href="https://github.com/Kaustav5505g?tab=followers"><img src="https://img.shields.io/github/followers/Kaustav5505g?style=for-the-badge&logo=github&logoColor=00FF9C&label=Followers&color=0D1117&labelColor=0D1117&border=00FF9C" alt="Followers" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:00E5FF&height=2" width="100%" alt="divider" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## `$ neofetch`
+<div align="center">
+  <img src="assets/neofetch.svg" alt="neofetch output" width="100%" />
+</div>
 
-```bash
-kaustav@github
---------------
-OS         : Student Developer // always compiling
-Role       : Software & Applied Machine Learning Developer
-Languages  : Python, C, C++, Java
-Web        : JavaScript, React 19, FastAPI, Flask, Tailwind CSS
-Data / ML  : Scikit-Learn, Pandas, NumPy, Joblib, SQL
-Focus      : Anomaly Detection Systems | Data Pipelines | Pattern Recognition
-Open Source: Biopython contributor
-Editor     : VS Code
-Shell      : bash // git
-Motto      : Code. Learn. Build. Repeat.
-```
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## `$ status --check`
 
-```bash
-[ OK ] Systems online
-[ OK ] Building telemetry and anomaly detection tools
-[ OK ] Contributing to open-source computational biology
-[ .. ] Learning something new
+```diff
++ [ OK ] Systems online
++ [ OK ] Building telemetry and anomaly detection tools
++ [ OK ] Contributing to open-source computational biology
+! [ .. ] Learning something new
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:00FF9C&height=2" width="100%" alt="divider" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## `$ list --stack`
 
@@ -54,33 +40,25 @@ Motto      : Code. Learn. Build. Repeat.
 <table>
   <tr>
     <td align="center"><b>Languages</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=py,c,cpp,java,js&theme=dark" alt="Languages" />
-    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=py,c,cpp,java,js&theme=dark" alt="Languages" /></td>
   </tr>
   <tr>
     <td align="center"><b>Web</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,fastapi,flask,tailwind&theme=dark" alt="Web" />
-    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react,fastapi,flask,tailwind&theme=dark" alt="Web" /></td>
   </tr>
   <tr>
     <td align="center"><b>ML &amp; Data</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy&theme=dark" alt="ML and Data" />
-    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy&theme=dark" alt="ML and Data" /></td>
   </tr>
   <tr>
     <td align="center"><b>Tools</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,vscode,github&theme=dark" alt="Tools" />
-    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git,vscode,github&theme=dark" alt="Tools" /></td>
   </tr>
 </table>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:00E5FF&height=2" width="100%" alt="divider" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## `$ execute --projects`
 
@@ -107,7 +85,7 @@ Motto      : Code. Learn. Build. Repeat.
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:00FF9C&height=2" width="100%" alt="divider" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## `$ git stats --all`
 
@@ -122,7 +100,7 @@ Motto      : Code. Learn. Build. Repeat.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:00E5FF&height=2" width="100%" alt="divider" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## `$ contact --open`
 
@@ -136,6 +114,6 @@ $ echo "Open to collaboration on ML systems, data pipelines, and open source."
 <a href="mailto:paulkaustav0@gmail.com">paulkaustav0@gmail.com</a> •
 <a href="https://github.com/Kaustav5505g">GitHub</a>
 
-</div>
+<img src="assets/footer.svg" width="100%" alt="" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:00FF9C&height=100&section=footer" alt="footer" width="100%" />
+</div>
