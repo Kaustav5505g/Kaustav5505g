@@ -24,12 +24,7 @@
 
 ## `$ status --check`
 
-```diff
-+ [ OK ] Systems online
-+ [ OK ] Building telemetry and anomaly detection tools
-+ [ OK ] Contributing to open-source computational biology
-! [ .. ] Learning something new
-```
+<img src="assets/status.svg" alt="Status check" width="100%" />
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
