@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://linkedin.com/in/kaustav-paul-5505g"><img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="LinkedIn" /></a>
-<a href="mailto:paulkaustav0@gmail.com"><img src="https://img.shields.io/badge/Email-00FF9C?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=paulkaustav0@gmail.com&su=Hello%20Kaustav"><img src="https://img.shields.io/badge/Email-00FF9C?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email" /></a>
 <a href="https://github.com/Kaustav5505g?tab=followers"><img src="https://img.shields.io/github/followers/Kaustav5505g?style=for-the-badge&logo=github&logoColor=00FF9C&label=Followers&color=0D1117&labelColor=0D1117&border=00FF9C" alt="Followers" /></a>
 
 </div>
