@@ -22,7 +22,7 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## `$ status --check`
+
 
 <img src="assets/status.svg" alt="Status check" width="100%" />
 
